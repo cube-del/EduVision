@@ -24,3 +24,5 @@ Python: Version 3.10 or higher.
 Hardware: NVIDIA GPU with CUDA support (Minimum 6GB VRAM recommended).
 
 Drivers: Up-to-date NVIDIA drivers and CUDA Toolkit.
+
+There is an application based on gradio
